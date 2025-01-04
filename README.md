@@ -103,5 +103,13 @@ Visite o meu perfil para mais detalhes sobre a minha experiência profissional e
 ![page_3](https://github.com/user-attachments/assets/b10dc2bd-daa0-44f1-8462-c8e589df42f1)
 ![page_12](https://github.com/user-attachments/assets/969a6d82-de90-4403-bb09-8e09c2c112f8)
 
-
+<img width="776" alt="chrome_43C8k0LSra" src="https://github.com/user-attachments/assets/85eb59f9-9da6-4d74-bd8a-6b82d42f3b88" />
+<img width="610" alt="chrome_PRJD5K9ZDD" src="https://github.com/user-attachments/assets/41c2db33-322d-4ee4-9b92-e530be1ce076" />
+<img width="1254" alt="chrome_AqV7BZgjjk" src="https://github.com/user-attachments/assets/1c2e0e2e-1180-4125-9de3-18b29ceb3329" />
+<img width="1391" alt="chrome_Rv2BrBwxkE" src="https://github.com/user-attachments/assets/81476e2e-225a-4ea2-b33d-a3918bdb95a3" />
+<img width="1359" alt="chrome_G3mgugwgDD" src="https://github.com/user-attachments/assets/2cfba2d6-1ae0-4317-ad57-121036ec87bb" />
+<img width="1457" alt="chrome_CbudbGaTQk" src="https://github.com/user-attachments/assets/0ac9ec65-a612-4fe7-917d-160aa4134bf1" />
+<img width="573" alt="chrome_RO7ObpWB50" src="https://github.com/user-attachments/assets/971eff5e-7c7e-4023-b6b9-4de2d549be65" />
+<img width="577" alt="chrome_CRvVCKWA8y" src="https://github.com/user-attachments/assets/c8ddb347-1cd6-4ec1-85fb-6468a71209a4" />
+<img width="553" alt="chrome_DCMzlItfIw" src="https://github.com/user-attachments/assets/4487ab7b-e00b-4855-a61d-1d25f267ce7a" />
 
