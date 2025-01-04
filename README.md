@@ -30,6 +30,88 @@
 
 O **PDF Processor** é uma solução de ponta para extrair e transformar dados de arquivos PDF, criada com um olhar estratégico para o futuro da Inteligência Artificial. Desenvolvido por **Elias Andrade**, este projeto não é apenas um processador de PDFs; é um framework para preparar dados de alta qualidade que podem ser utilizados em modelos de linguagem grandes (LLMs) e modelos de visão grandes (LVMs) e sistemas de RAG. O projeto combina as mais recentes técnicas de processamento de imagem e PLN, buscando gerar dados ricos que superam a tradicional extração de texto.
 
+# 🖼️ Bert-Powered PDF Image Extraction & Markup 
+![page_5](https://github.com/user-attachments/assets/09541e9e-d00a-473b-89aa-bcadc161976c)
+
+![page_8](https://github.com/user-attachments/assets/c1de53eb-bf06-46e5-add2-df00b0922516)
+
+![page_2](https://github.com/user-attachments/assets/5c95b788-d07f-4979-bd54-a6012a2fcf9b)
+
+![page_20](https://github.com/user-attachments/assets/20fc0978-3a1a-4005-8f42-8fc0e00af8a2)
+
+![page_11](https://github.com/user-attachments/assets/9af312db-527d-4424-a094-6fd36838a5f8)
+
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/chaos4455/Bert-Vector-Semantic-PDF-Image-Extration-V1">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Space-blue?style=for-the-badge&logo=huggingface" alt="Hugging Face Space">
+  </a>
+  <a href="https://github.com/chaos4455/Bert-PDF-IMG-Markup">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+  </a>
+</p>
+
+
+Um projeto de portfolio que combina processamento de PDFs com técnicas avançadas de visão computacional, NLP e processamento paralelo para extrair imagens e aplicar marcações semânticas. Este é o  meu  portfólio de projetos , que integra diversas técnicas de ponta para extrair o máximo de valor de documentos PDF.
+
+## 🚀 Funcionalidades Principais
+
+- **🖼️ Extração de Imagens:** Converta páginas de PDFs em imagens de alta qualidade com facilidade.
+- **🔥 Mapas de Calor:** Aplique mapas de calor semânticos para identificar áreas importantes em imagens.
+- **🤖 Reconhecimento Óptico de Caracteres (OCR):** Extraia texto de imagens usando EasyOCR.
+- **🧠 Análise Semântica com BERT:** Identifique blocos de texto similares usando embeddings BERT.
+- **🧵 Processamento Paralelo:** Maximize a eficiência usando threads para processar múltiplas páginas e arquivos simultaneamente.
+- **✨ Streamlit Interface:** Interface web interativa para uso fácil e rápido.
+- **✅ Download de ZIP:** Baixe todas as imagens processadas em um único arquivo ZIP.
+- **🎨 Paletas de Cores:** Visualize com diferentes paletas de cores e efeitos de sobreposição, como *viridis*, *inferno* e *magma*.
+- **🎛️ Configurações Flexíveis:** Ajuste parâmetros como o raio de *blur*, limiar de *threshold* e transparência dos *heatmaps*.
+- **✨ Apresentação em Tempo Real:** Imagens são exibidas em tela enquanto o processamento acontece.
+- **⚙️ Uso Otimizado de Recursos:** Monitoramento em tempo real de uso de CPU e memória.
+
+## 🛠️ Tecnologias Utilizadas
+  
+  *  **Python:** Linguagem de programação principal
+  *  **Streamlit:** Criação da interface web.
+  *  **PyMuPDF (fitz):** Processamento de arquivos PDF.
+  *  **Pillow:** Manipulação de imagens.
+  *  **NumPy:** Operações numéricas.
+  *  **SciPy:** Implementação de filtro gaussiano.
+  *  **Scikit-image:** Processamento e análise de imagens.
+  *  **EasyOCR:** Extração de texto de imagens.
+  *  **Transformers (BERT):** Modelo para embeddings de texto.
+  *  **Torch:** Biblioteca para operações de tensores.
+  *  **Scikit-learn:** Ferramentas para agrupamento de dados (clustering)
+  *  **Psutil:** Monitoramento de recursos do sistema.
+  *  **Matplotlib:** Criação de paletas de cores para visualização de mapas de calor.
+  *  **Rich:** Criação de Logs e paineis ricos no terminal(Utilizada no Script original, porém, neste, não é necessária no contexto do Streamlit)
+  *  **Pandas:** Estruturação e organização de dados.
+
+## 🔗 Links Úteis
+-   **Hugging Face Space:** Experimente o aplicativo em tempo real:
+    [https://huggingface.co/spaces/chaos4455/Bert-Vector-Semantic-PDF-Image-Extration-V1](https://huggingface.co/spaces/chaos4455/Bert-Vector-Semantic-PDF-Image-Extration-V1)
+
+-   **Repositório GitHub:** Veja o código fonte do projeto:
+    [https://github.com/chaos4455/Bert-PDF-IMG-Markup](https://github.com/chaos4455/Bert-PDF-IMG-Markup)
+
+## 📅 Novidades e Desenvolvimento Futuro
+
+Em **Janeiro de 2025**, estou trabalhando em novas implementações e técnicas de RAG (Retrieval-Augmented Generation) usando visão computacional. Estou explorando uma abordagem de RAG *fine-tuned* visualmente, para aprimorar a precisão e o contexto das respostas geradas a partir de documentos visuais.
+
+## 🚀 Convite
+
+Fique à vontade para **explorar o código-fonte no repositório GitHub** e **testar o aplicativo no Hugging Face Space**. Seu feedback é muito valioso!
+
+<p align="center">
+  <a href="https://github.com/chaos4455/Bert-PDF-IMG-Markup">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-green?style=for-the-badge&logo=github" alt="GitHub Repo Source Code">
+  </a>
+  <a href="https://huggingface.co/spaces/chaos4455/Bert-Vector-Semantic-PDF-Image-Extration-V1">
+    <img src="https://img.shields.io/badge/Hugging%20Face-Try%20the%20Space-blueviolet?style=for-the-badge&logo=huggingface" alt="Hugging Face Space Demo">
+  </a>
+</p>
+
+_Elias Andrade_
+
 ## 💡 Uma Visão Inovadora para o Processamento de PDFs na Era da IA
 
 O **PDF Processor** aborda um dos maiores desafios da IA: a integração eficaz de documentos complexos como os PDFs em pipelines de processamento de dados. Ao invés de apenas extrair o texto, esta ferramenta extrai, transforma e enriquece dados visuais e contextuais, criando uma base para sistemas de IA e aplicações RAG que são mais robustas e inteligentes.
