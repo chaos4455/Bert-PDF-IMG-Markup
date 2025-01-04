@@ -90,3 +90,18 @@ Este projeto demonstra minhas habilidades e conhecimentos avançados, incluindo:
 Visite o meu perfil para mais detalhes sobre a minha experiência profissional e projetos:
 
 [LinkedIn Profile](https://br.linkedin.com/in/itilmgf)
+
+![page_1](https://github.com/user-attachments/assets/0746bf0b-be09-438b-b9f3-40e6f0ad13a2)
+![page_5 (1)](https://github.com/user-attachments/assets/12ef354c-f0be-46b2-a2ff-af109402b3f9)
+![page_6](https://github.com/user-attachments/assets/6b5a7561-f4b0-4154-8178-660d8cf24b8d)
+![page_3 (2)](https://github.com/user-attachments/assets/b93e7c66-ad35-498b-a97a-06275050dd02)
+![page_4](https://github.com/user-attachments/assets/864dfcda-1454-440f-a5b9-c7d2ac612282)
+![page_2](https://github.com/user-attachments/assets/4e845662-e5cc-4e32-8aa1-ca255ea24ce6)
+![page_3 (1)](https://github.com/user-attachments/assets/f2697a23-f231-4cc9-92bf-47ae422afd9c)
+![page_5](https://github.com/user-attachments/assets/179033c8-48f1-4126-a6c0-4c6307c253bb)
+![page_7](https://github.com/user-attachments/assets/5b7e6b72-7735-4573-8488-6f2e661385b4)
+![page_3](https://github.com/user-attachments/assets/b10dc2bd-daa0-44f1-8462-c8e589df42f1)
+![page_12](https://github.com/user-attachments/assets/969a6d82-de90-4403-bb09-8e09c2c112f8)
+
+
+
