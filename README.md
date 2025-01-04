@@ -110,8 +110,6 @@ Fique à vontade para **explorar o código-fonte no repositório GitHub** e **te
   </a>
 </p>
 
-_Elias Andrade_
-
 ## 💡 Uma Visão Inovadora para o Processamento de PDFs na Era da IA
 
 O **PDF Processor** aborda um dos maiores desafios da IA: a integração eficaz de documentos complexos como os PDFs em pipelines de processamento de dados. Ao invés de apenas extrair o texto, esta ferramenta extrai, transforma e enriquece dados visuais e contextuais, criando uma base para sistemas de IA e aplicações RAG que são mais robustas e inteligentes.
